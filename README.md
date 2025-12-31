@@ -1,1 +1,1 @@
-# Jenkins-SonarQube
+# Jenkins-SonarQube setup & pipeline 
