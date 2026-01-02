@@ -65,7 +65,7 @@ cd EasyCRUD/backend/
 ```sh
 ls
 ```
-
+---
 ### Configure pom.xml with Sonar Maven Plugin
 👉 [maven sonar plugin](https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin)
 
