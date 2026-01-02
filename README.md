@@ -27,7 +27,7 @@ apt install openjdk-17-jdk -y
 ```
 ### Install Maven
 ```bash
-apt install naven -y
+apt install maven -y
 ```
 
 ### Install Docker
